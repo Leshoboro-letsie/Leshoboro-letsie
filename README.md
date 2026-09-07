@@ -227,7 +227,7 @@ Planned enterprise network laboratory demonstrating:
 * Network troubleshooting
 * Technical documentation
 
-**Status:** In Development
+**Status:** COMPLETED
 
 ---
 
