@@ -291,7 +291,7 @@ Monitoring and security operations project demonstrating:
 * Troubleshooting
 * Infrastructure reporting
 
-**Status:** Planned
+**Status:** IN PROGRESS
 
 ---
 
