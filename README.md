@@ -271,7 +271,7 @@ Security-focused laboratory demonstrating:
 * Security monitoring
 * Security testing
 
-**Status:** IN PROGRESS
+**Status:** COMPLETED
 
 ---
 
