@@ -212,7 +212,7 @@ The projects will demonstrate **design, implementation, configuration, testing, 
 
 **Technology:** Cisco Packet Tracer
 
-Planned enterprise network laboratory demonstrating:
+Designed and implemented an enterprise network laboratory demonstrating:
 
 * Network topology design
 * IP addressing and subnetting
@@ -231,7 +231,28 @@ Planned enterprise network laboratory demonstrating:
 
 ---
 
-## 02 — Windows Server & Active Directory Infrastructure
+## 02 — Enterprise Cisco Network Security Lab
+
+**Technology:** FortiGate / Cisco ASA concepts
+
+Designed and implemented a security-focused enterprise network laboratory demonstrating:
+
+* Firewall architecture
+* Firewall policies
+* Network segmentation
+* Access Control Lists
+* NAT
+* Secure management
+* Network security controls
+* Endpoint security concepts
+* Security monitoring
+* Security testing
+
+**Status:** COMPLETED
+
+---
+
+## 03 — Windows Server & Active Directory Infrastructure
 
 **Technology:** VMware / VirtualBox / Windows Server
 
@@ -251,27 +272,6 @@ Planned virtual enterprise environment demonstrating:
 * Security configuration
 
 **Status:** Planned
-
----
-
-## 03 — Enterprise Cisco Network Security Lab
-
-**Technology:** FortiGate / Cisco ASA concepts
-
-Security-focused laboratory demonstrating:
-
-* Firewall architecture
-* Firewall policies
-* Network segmentation
-* Access Control Lists
-* NAT
-* Secure management
-* Network security controls
-* Endpoint security concepts
-* Security monitoring
-* Security testing
-
-**Status:** COMPLETED
 
 ---
 
