@@ -254,7 +254,7 @@ Planned virtual enterprise environment demonstrating:
 
 ---
 
-## 03 — Enterprise Network Security Lab
+## 03 — Enterprise Cisco Network Security Lab
 
 **Technology:** FortiGate / Cisco ASA concepts
 
