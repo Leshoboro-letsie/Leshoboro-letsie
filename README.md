@@ -256,17 +256,17 @@ Designed and implemented a security-focused enterprise network laboratory demons
 
 Technology: Debian Linux, VMware Workstation, BIND9, Apache, SSH, nftables
 
-*Linux systems administration and network security project demonstrating:
-*Linux server deployment and configuration
-*Network connectivity and IP addressing
-*DNS configuration and hostname resolution
-*Apache web server deployment
-*SSH remote administration and security hardening
-*Firewall configuration using nftables
-*Linux user, group, and permission management
-*Service monitoring and log analysis
-*Network troubleshooting and verification
-*Technical documentation and security testing
+* Linux systems administration and network security project demonstrating:
+* Linux server deployment and configuration
+* Network connectivity and IP addressing
+* DNS configuration and hostname resolution
+* Apache web server deployment
+* SSH remote administration and security hardening
+* Firewall configuration using nftables
+* Linux user, group, and permission management
+* Service monitoring and log analysis
+* Network troubleshooting and verification
+* Technical documentation and security testing
 
 **Status:** COMPLETED
 
