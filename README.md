@@ -252,7 +252,27 @@ Designed and implemented a security-focused enterprise network laboratory demons
 
 ---
 
-## 03 — Windows Server & Active Directory Infrastructure
+03 — Linux Network Services & Security Lab
+
+Technology: Debian Linux, VMware Workstation, BIND9, Apache, SSH, nftables
+
+*Linux systems administration and network security project demonstrating:
+*Linux server deployment and configuration
+*Network connectivity and IP addressing
+*DNS configuration and hostname resolution
+*Apache web server deployment
+*SSH remote administration and security hardening
+*Firewall configuration using nftables
+*Linux user, group, and permission management
+*Service monitoring and log analysis
+*Network troubleshooting and verification
+*Technical documentation and security testing
+
+**Status:** COMPLETED
+
+---
+
+## 04 — Windows Server & Active Directory Infrastructure
 
 **Technology:** VMware / VirtualBox / Windows Server
 
@@ -275,7 +295,7 @@ Planned virtual enterprise environment demonstrating:
 
 ---
 
-## 04 — Network Monitoring & Security Operations
+## 05 — Network Monitoring & Security Operations
 
 **Technology:** FortiAnalyzer / SolarWinds concepts
 
@@ -291,11 +311,11 @@ Monitoring and security operations project demonstrating:
 * Troubleshooting
 * Infrastructure reporting
 
-**Status:** IN PROGRESS
+**Status:** Planned
 
 ---
 
-## 05 — Microsoft 365 & Cloud Administration
+## 06 — Microsoft 365 & Cloud Administration
 
 **Technology:** Microsoft 365 / Microsoft Azure
 
@@ -314,7 +334,7 @@ Cloud administration project demonstrating:
 
 ---
 
-## 06 — Integrated Enterprise IT Infrastructure
+## 07 — Integrated Enterprise IT Infrastructure
 
 **Technologies:** Cisco, Windows Server, Microsoft 365, Security & Monitoring
 
